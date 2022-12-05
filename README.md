@@ -1,3 +1,4 @@
-# Bob wrestling controller
+# Charlie wrestling controller
 
-This controller beats Alice by walking forward and therefore having a higher coverage.
+Beats Bob by moving forwards and shoving him to the ground.
+
